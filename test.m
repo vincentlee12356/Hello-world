@@ -5,7 +5,5 @@ for k=0.1:0.05:1
     kplot=[kplot,k];
     yplot=[yplot,y];
 end
-
 hold on
-
 plot(kplot,yplot,'r+')
