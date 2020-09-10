@@ -3,5 +3,6 @@ def fact(n):
         return 1
     return n * fact(n - 1)
 
-sdf=fact(4)
+sdf=fact(56)
+print(sdf)
 print(sdf)
