@@ -4,5 +4,8 @@ def fact(n):
     return n * fact(n - 1)
 
 sdf=fact(56)
+
+asd=fact(67)
 print(sdf)
 print(sdf)
+print(asd)
