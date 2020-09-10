@@ -8,4 +8,4 @@ end
 
 hold on
 
-plot(kplot, yplot,'r')
+plot(kplot,yplot,'r+')
